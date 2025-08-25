@@ -1,0 +1,17 @@
+[
+  {
+    "id": "paper1",
+    "title": "Bitcoin Volatility and Market Dynamics",
+    "content": "Bitcoin is a digital asset with a reputation for extreme price swings.  Researchers have analysed its behaviour using stochastic volatility models such as GARCH to capture the clustering of volatility over time.  Factors influencing Bitcoin’s volatility include market sentiment, regulatory announcements, macroeconomic uncertainty and liquidity.  Understanding these drivers helps traders and investors manage risk in the cryptocurrency market."
+  },
+  {
+    "id": "paper2",
+    "title": "An Introduction to Reinforcement Learning",
+    "content": "Reinforcement learning is an area of machine learning in which an agent learns to make decisions by interacting with an environment.  The agent receives a reward signal that guides it towards desirable behaviour.  Classical algorithms such as Q‑learning, SARSA and policy gradients have enabled breakthroughs in playing games and controlling robots.  More recent deep reinforcement learning methods combine neural networks with RL techniques to handle high‑dimensional inputs."
+  },
+  {
+    "id": "paper3",
+    "title": "Graph Neural Networks for Social Network Analysis",
+    "content": "Graph neural networks (GNNs) are architectures designed to operate on graph‑structured data.  In social network analysis, GNNs can learn representations of users and their relationships, enabling tasks such as community detection, link prediction and node classification.  GNN variants, including Graph Convolutional Networks and Graph Attention Networks, aggregate information from neighbouring nodes to capture complex patterns in the data."
+  }
+]
